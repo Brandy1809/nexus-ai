@@ -97,3 +97,50 @@
 - [080] (amir, 108 sikke) RAJA ne kar liya: -11 sikke  | energy=35 hunger=64
 - [080] (amir, 133 sikke) KISMAT: khazana mila (+25)  | energy=35 hunger=64
 - [080] (amir, 133 sikke) joke: Maine 'NASA Develops Robust Artificial Int' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=33 hunger=66
+
+## Run ke baad tick 120
+- [081] (amir, 133 sikke) KHUD KA NAYA KAAM (1/5): 'Microsoft Says Battle in Japan Hurting I' ke baare mein 2 line likho  | energy=33 hunger=66
+- [082] (amir, 133 sikke) kaam chal raha: 'Microsoft Says Battle in Japan Hurting I' ke baare mein 2 line likho (bacha 1)  | energy=25 hunger=72
+- [083] (amir, 133 sikke) khana khaya  | energy=25 hunger=22
+- [084] (amir, 133 sikke) KAAM POORA: 'Microsoft Says Battle in Japan Hurting I' ke baare mein 2 line likho (+0 sikke)  | energy=17 hunger=28
+- [085] (amir, 133 sikke) so gaya, energy +28  | energy=45 hunger=33
+- [086] (amir, 133 sikke) safar (dataset): [World/khel] Dream Team Stunned by Puerto Rico 92-73 ATHENS, Greece - In   | energy=40 hunger=37
+- [087] (amir, 133 sikke) KHUD KA NAYA KAAM (2/5): 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho  | energy=40 hunger=37
+- [088] (amir, 133 sikke) kaam chal raha: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (bacha 1)  | energy=32 hunger=43
+- [089] (amir, 133 sikke) KAAM POORA: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (+0 sikke)  | energy=24 hunger=49
+- [090] (amir, 120 sikke) RAJA ne kar liya: -13 sikke  | energy=24 hunger=49
+- [090] (amir, 120 sikke) safar (dataset): [Sports/misc] Leonard Forges Two Clear with Nine to Play at PGA  KOHLER, W  | energy=19 hunger=53
+- [091] (amir, 120 sikke) so gaya, energy +28  | energy=47 hunger=58
+- [092] (amir, 120 sikke) safar (dataset): [World/misc] New U.N. Official Assumes Kosovo Control (AP) AP - The new U  | energy=42 hunger=62
+- [093] (amir, 120 sikke) KHUD KA NAYA KAAM (3/5): 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho  | energy=42 hunger=62
+- [094] (amir, 120 sikke) kaam chal raha: 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho (bacha 1)  | energy=34 hunger=68
+- [095] (amir, 120 sikke) KAAM POORA: 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho (+0 sikke)  | energy=26 hunger=74
+- [096] (amir, 120 sikke) khana khaya  | energy=26 hunger=24
+- [097] (amir, 120 sikke) safar (dataset): [World/misc] Swimming showdown Ian Thorpe and Michael Phelps will chase g  | energy=21 hunger=28
+- [098] (amir, 120 sikke) safar (dataset): [Business/energy] Nikkei Falls Over 1 Pct on Oil Worries (Reuters) Reuters - T  | energy=16 hunger=32
+- [099] (amir, 120 sikke) so gaya, energy +28  | energy=44 hunger=37
+- [100] (amir, 108 sikke) RAJA ne kar liya: -12 sikke  | energy=44 hunger=37
+- [100] (amir, 108 sikke) KHUD KA NAYA KAAM (4/5): 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho  | energy=44 hunger=37
+- [101] (amir, 108 sikke) kaam chal raha: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (bacha 1)  | energy=36 hunger=43
+- [102] (amir, 108 sikke) KAAM POORA: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (+0 sikke)  | energy=28 hunger=49
+- [103] (amir, 108 sikke) safar (dataset): [Sci-Tech/misc] Time Is Now for Linux Vendors to Protect Users (Ziff Davis)   | energy=23 hunger=53
+- [104] (amir, 108 sikke) KHUD KA NAYA KAAM (5/5): 'Local team wins the championship in over' ke baare mein 2 line likho  | energy=23 hunger=53
+- [105] (amir, 108 sikke) kaam chal raha: 'Local team wins the championship in over' ke baare mein 2 line likho (bacha 1)  | energy=15 hunger=59
+- [106] (amir, 108 sikke) so gaya, energy +28  | energy=43 hunger=64
+- [107] (amir, 108 sikke) KAAM POORA: 'Local team wins the championship in over' ke baare mein 2 line likho (+0 sikke)  | energy=35 hunger=70
+- [108] (amir, 108 sikke) khana khaya  | energy=35 hunger=20
+- [109] (amir, 108 sikke) safar (dataset): [Sports/misc] They flocked from Games ATHENS -- During yesterday's celebra  | energy=30 hunger=24
+- [110] (madhyam, 98 sikke) RAJA ne kar liya: -10 sikke  | energy=30 hunger=24
+- [110] (madhyam, 98 sikke) safar (dataset): [Sports/khel] Clout shown in rout ATHENS -- When the Olympic softball sche  | energy=25 hunger=28
+- [111] (madhyam, 98 sikke) safar (dataset): [World/misc] Rescue Teams Aid Hurricane Charley Victims PUNTA GORDA, Fla.  | energy=20 hunger=32
+- [112] (madhyam, 98 sikke) so gaya, energy +28  | energy=48 hunger=37
+- [113] (madhyam, 98 sikke) kaam-bazaar se kaam liya: door ki website ka safar (paisa 30)  | energy=48 hunger=37
+- [114] (madhyam, 98 sikke) kaam chal raha: door ki website ka safar (bacha 4)  | energy=40 hunger=43
+- [115] (amir, 123 sikke) KISMAT: khazana mila (+25)  | energy=40 hunger=43
+- [115] (amir, 123 sikke) kaam chal raha: door ki website ka safar (bacha 3)  | energy=32 hunger=49
+- [116] (amir, 123 sikke) kaam chal raha: door ki website ka safar (bacha 2)  | energy=24 hunger=55
+- [117] (amir, 123 sikke) kaam chal raha: door ki website ka safar (bacha 1)  | energy=16 hunger=61
+- [118] (amir, 123 sikke) so gaya, energy +28  | energy=44 hunger=66
+- [119] (amir, 153 sikke) KAAM POORA: door ki website ka safar (+30 sikke)  | energy=36 hunger=72
+- [120] (amir, 138 sikke) RAJA ne kar liya: -15 sikke  | energy=36 hunger=72
+- [120] (amir, 138 sikke) khana khaya  | energy=36 hunger=22

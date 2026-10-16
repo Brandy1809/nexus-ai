@@ -1,13 +1,13 @@
 {
   "name": "Nexus",
   "home": "jhopdi",
-  "coins": 133,
-  "energy": 33,
-  "hunger": 66,
-  "tick": 80,
-  "learned": 15,
+  "coins": 138,
+  "energy": 36,
+  "hunger": 22,
+  "tick": 120,
+  "learned": 24,
   "hardship": 0,
-  "done_count": 13,
+  "done_count": 19,
   "tasks": [],
   "done": [
     "3 articles padho",
@@ -22,7 +22,13 @@
     "3 articles padho",
     "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
     "'Tech market indeed soft, but HP woes one' ke baare mein 2 line likho",
-    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho"
+    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
+    "'Microsoft Says Battle in Japan Hurting I' ke baare mein 2 line likho",
+    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
+    "'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho",
+    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
+    "'Local team wins the championship in over' ke baare mein 2 line likho",
+    "door ki website ka safar"
   ],
   "knowledge": [
     "Local team wins the championship in overtime",
@@ -39,7 +45,16 @@
     "Rwanda Troops Airlifted to Start AU Mission in Darfur (Reuters) Reuters - Rwandan troops were airlifted on Sunday\\to Sudan's Darfur as the first foreign force t",
     "Florida Residents Face Hurricane Wreckage PUNTA GORDA, Fla. - After getting a first look at the widespread damage left behind by Hurricane Charley, Florida resi",
     "Oil and Economy Cloud Stocks' Outlook  NEW YORK (Reuters) - Soaring crude prices plus worries  about the economy and the outlook for earnings are expected to  h",
-    "NASA Develops Robust Artificial Intelligence for Planetary Rovers NASA is planning to add a strong dose of artificial intelligence (AI) to planetary rovers to m"
+    "NASA Develops Robust Artificial Intelligence for Planetary Rovers NASA is planning to add a strong dose of artificial intelligence (AI) to planetary rovers to m",
+    "Dream Team Stunned by Puerto Rico 92-73 ATHENS, Greece - In an upset that was as historic as it was inevitable, the U.S. men's basketball team lost for only the",
+    "Leonard Forges Two Clear with Nine to Play at PGA  KOHLER, Wisconsin (Reuters) - American Justin Leonard  stayed on track for his second major title in the U.S.",
+    "New U.N. Official Assumes Kosovo Control (AP) AP - The new U.N. administrator for Kosovo took control Sunday of the Serbian province, which has remained deeply ",
+    "Swimming showdown Ian Thorpe and Michael Phelps will chase gold in the men's 200m freestyle on day three of the Olympics.",
+    "Nikkei Falls Over 1 Pct on Oil Worries (Reuters) Reuters - Tokyo's Nikkei fell more than one percent\\by mid-morning on Monday as investors stepped up selling of",
+    "Time Is Now for Linux Vendors to Protect Users (Ziff Davis) Ziff Davis - Opinion: It's time for other Linux vendors to follow Red Hat's lead and offer patent in",
+    "They flocked from Games ATHENS -- During yesterday's celebration of the assumption of the Virgin Mary, the Greek orthodox clergy had a stern reminder for the or",
+    "Clout shown in rout ATHENS -- When the Olympic softball schedule was released, Lisa Fernandez grabbed a marker and began counting down the days.  quot;This game",
+    "Rescue Teams Aid Hurricane Charley Victims PUNTA GORDA, Fla. - Urban rescue teams, insurance adjusters and National Guard troops were scattered across Florida t"
   ],
   "world": [
     {
