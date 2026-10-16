@@ -1,0 +1,55 @@
+name: agent-sudhaar
+
+on:
+  schedule:
+    - cron: "0 4 * * 0"       # har ravivaar subah
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  tune:
+    # strategy.json ke numbers: surakshit, seedha main mein commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python tests.py
+      - run: python improve.py tune
+      - name: Badlaav commit karo
+        run: |
+          git config user.name "nexus"
+          git config user.email "nexus@users.noreply.github.com"
+          git add strategy.json improvements.md
+          git diff --cached --quiet || (git commit -m "agent ne apna dimaag tune kiya" && git pull --rebase && git push)
+
+  code:
+    # AI se code sudhaar: sirf PULL REQUEST banta hai, insaan merge karta hai
+    if: ${{ vars.CODE_IMPROVE == '1' }}
+    needs: tune
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install huggingface_hub
+      - run: python improve.py code
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          CODE_MODEL: ${{ vars.CODE_MODEL }}
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: agent/self-improve
+          delete-branch: true
+          title: "Agent ka khud ka sudhaar (AI prastaav)"
+          body: "improve.py ne tests aur score jaanch ke baad ye badlaav sujhaya. improvements.md dekho, phir merge karo."
+          commit-message: "agent ka khud ka sudhaar"
+          add-paths: |
+            agent.py
+            space/app.py
+            improvements.md

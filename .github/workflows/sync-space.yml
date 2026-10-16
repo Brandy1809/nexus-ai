@@ -1,0 +1,30 @@
+name: space-sync
+
+# GitHub (asli ghar) -> Hugging Face Space. space/ folder badalte hi Space update ho jata hai.
+on:
+  push:
+    branches: [main]
+    paths: ["space/**"]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install huggingface_hub
+      - name: Space par bhejo
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_SPACE: ${{ vars.HF_SPACE }}
+        run: |
+          python - <<'EOF'
+          import os
+          from huggingface_hub import HfApi
+          HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
+              folder_path="space", repo_id=os.environ["HF_SPACE"], repo_type="space")
+          print("Space update ho gaya:", os.environ["HF_SPACE"])
+          EOF
