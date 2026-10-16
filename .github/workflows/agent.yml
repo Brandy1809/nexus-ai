@@ -1,0 +1,50 @@
+name: agent-ka-din
+
+on:
+  schedule:
+    - cron: "30 3 * * *"      # roz subah 9:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: agent-repo
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install huggingface_hub
+
+      # Optional: open-source LLM (Settings > Variables mein USE_LLM=1)
+      - name: LLM install (sirf USE_LLM=1 par)
+        if: ${{ vars.USE_LLM == '1' }}
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers
+
+      - name: Pehle test (gate)
+        run: python tests.py
+
+      - name: Agent ka din chalao
+        run: python agent.py
+        env:
+          USE_LLM: ${{ vars.USE_LLM }}
+          HF_DATASET: ${{ vars.HF_DATASET }}            # safar ka dataset (default ag_news)
+          HF_DATASET_OUT: ${{ vars.HF_DATASET_OUT }}    # yaaddasht + gyaan ka apna dataset
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+
+      - name: Yaaddasht commit karo
+        run: |
+          git config user.name "nexus"
+          git config user.email "nexus@users.noreply.github.com"
+          git add memory.json journal.md
+          git diff --cached --quiet || (git commit -m "agent ka ek din" && git pull --rebase && git push)
