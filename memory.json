@@ -1,0 +1,53 @@
+{
+  "name": "Nexus",
+  "home": "jhopdi",
+  "coins": 103,
+  "energy": 19,
+  "hunger": 66,
+  "tick": 40,
+  "learned": 3,
+  "hardship": 0,
+  "done_count": 8,
+  "tasks": [],
+  "done": [
+    "3 articles padho",
+    "3 articles padho",
+    "ek chhota summary likho",
+    "door ki website ka safar",
+    "'Local team wins the championship in over' ke baare mein 2 line likho",
+    "3 articles padho",
+    "'Local team wins the championship in over' ke baare mein 2 line likho",
+    "'Scientists find new way to store solar e' ke baare mein 2 line likho"
+  ],
+  "knowledge": [
+    "Local team wins the championship in overtime",
+    "Antitrust Lawyer Takes Helm at FTC As Deborah P. Majoras takes over the Federal Trade Commission on Monday, she's expected to build on the broad agenda set by h",
+    "Scientists find new way to store solar energy"
+  ],
+  "world": [
+    {
+      "name": "jhopdi",
+      "food": 4,
+      "comfort": 1,
+      "rent": 0
+    },
+    {
+      "name": "kothri",
+      "food": 8,
+      "comfort": 2,
+      "rent": 5
+    },
+    {
+      "name": "jungle-ghar",
+      "food": 10,
+      "comfort": 3,
+      "rent": 0
+    },
+    {
+      "name": "haveli",
+      "food": 10,
+      "comfort": 5,
+      "rent": 20
+    }
+  ]
+}

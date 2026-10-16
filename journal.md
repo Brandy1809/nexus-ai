@@ -1,0 +1,49 @@
+# Nexus ki diary
+
+## Run ke baad tick 40
+- [001] (garib, 20 sikke) kaam-bazaar se kaam liya: 3 articles padho (paisa 10)  | energy=100 hunger=0
+- [002] (garib, 20 sikke) kaam chal raha: 3 articles padho (bacha 2)  | energy=92 hunger=6
+- [003] (garib, 20 sikke) kaam chal raha: 3 articles padho (bacha 1)  | energy=84 hunger=12
+- [004] (madhyam, 30 sikke) KAAM POORA: 3 articles padho (+10 sikke)  | energy=76 hunger=18
+- [005] (madhyam, 30 sikke) kaam-bazaar se kaam liya: 3 articles padho (paisa 10)  | energy=76 hunger=18
+- [006] (madhyam, 30 sikke) kaam chal raha: 3 articles padho (bacha 2)  | energy=68 hunger=24
+- [007] (madhyam, 30 sikke) kaam chal raha: 3 articles padho (bacha 1)  | energy=60 hunger=30
+- [008] (madhyam, 40 sikke) KAAM POORA: 3 articles padho (+10 sikke)  | energy=52 hunger=36
+- [009] (madhyam, 65 sikke) KISMAT: khazana mila (+25)  | energy=52 hunger=36
+- [009] (madhyam, 65 sikke) kaam-bazaar se kaam liya: ek chhota summary likho (paisa 15)  | energy=52 hunger=36
+- [010] (madhyam, 65 sikke) kaam chal raha: ek chhota summary likho (bacha 1)  | energy=44 hunger=42
+- [011] (madhyam, 80 sikke) KAAM POORA: ek chhota summary likho (+15 sikke)  | energy=36 hunger=48
+- [012] (madhyam, 80 sikke) kaam-bazaar se kaam liya: door ki website ka safar (paisa 30)  | energy=36 hunger=48
+- [013] (madhyam, 80 sikke) kaam chal raha: door ki website ka safar (bacha 4)  | energy=28 hunger=54
+- [014] (madhyam, 80 sikke) kaam chal raha: door ki website ka safar (bacha 3)  | energy=20 hunger=60
+- [015] (madhyam, 80 sikke) so gaya, energy +28  | energy=48 hunger=65
+- [016] (madhyam, 80 sikke) kaam chal raha: door ki website ka safar (bacha 2)  | energy=40 hunger=71
+- [017] (madhyam, 80 sikke) khana khaya  | energy=40 hunger=21
+- [018] (madhyam, 80 sikke) kaam chal raha: door ki website ka safar (bacha 1)  | energy=32 hunger=27
+- [019] (amir, 110 sikke) KAAM POORA: door ki website ka safar (+30 sikke)  | energy=24 hunger=33
+- [020] (madhyam, 99 sikke) RAJA ne kar liya: -11 sikke  | energy=24 hunger=33
+- [020] (madhyam, 89 sikke) KISMAT: chori ho gayi (-10)  | energy=24 hunger=33
+- [020] (madhyam, 89 sikke) safar (sample): [Sports/khel] Local team wins the championship in overtime  | energy=19 hunger=37
+- [021] (madhyam, 89 sikke) so gaya, energy +28  | energy=47 hunger=42
+- [022] (madhyam, 89 sikke) KHUD KA NAYA KAAM (1/5): 'Local team wins the championship in over' ke baare mein 2 line likho  | energy=47 hunger=42
+- [023] (madhyam, 89 sikke) kaam chal raha: 'Local team wins the championship in over' ke baare mein 2 line likho (bacha 1)  | energy=39 hunger=48
+- [024] (madhyam, 89 sikke) KAAM POORA: 'Local team wins the championship in over' ke baare mein 2 line likho (+0 sikke)  | energy=31 hunger=54
+- [025] (madhyam, 89 sikke) kaam-bazaar se kaam liya: 3 articles padho (paisa 10)  | energy=31 hunger=54
+- [026] (madhyam, 89 sikke) kaam chal raha: 3 articles padho (bacha 2)  | energy=23 hunger=60
+- [027] (madhyam, 89 sikke) kaam chal raha: 3 articles padho (bacha 1)  | energy=15 hunger=66
+- [028] (madhyam, 89 sikke) so gaya, energy +28  | energy=43 hunger=71
+- [029] (madhyam, 89 sikke) khana khaya  | energy=43 hunger=21
+- [030] (madhyam, 99 sikke) KAAM POORA: 3 articles padho (+10 sikke)  | energy=35 hunger=27
+- [031] (amir, 124 sikke) KISMAT: khazana mila (+25)  | energy=35 hunger=27
+- [031] (amir, 124 sikke) safar (dataset): [Sci-Tech/misc] Antitrust Lawyer Takes Helm at FTC As Deborah P. Majoras tak  | energy=30 hunger=31
+- [032] (amir, 124 sikke) KHUD KA NAYA KAAM (2/5): 'Local team wins the championship in over' ke baare mein 2 line likho  | energy=30 hunger=31
+- [033] (amir, 124 sikke) kaam chal raha: 'Local team wins the championship in over' ke baare mein 2 line likho (bacha 1)  | energy=22 hunger=37
+- [034] (amir, 124 sikke) KAAM POORA: 'Local team wins the championship in over' ke baare mein 2 line likho (+0 sikke)  | energy=14 hunger=43
+- [035] (amir, 124 sikke) so gaya, energy +28  | energy=42 hunger=48
+- [036] (amir, 124 sikke) joke: Maine 'Antitrust Lawyer Takes Helm at FTC ' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=40 hunger=50
+- [037] (amir, 124 sikke) safar (sample): [Sci-Tech/energy] Scientists find new way to store solar energy  | energy=35 hunger=54
+- [038] (amir, 124 sikke) KHUD KA NAYA KAAM (3/5): 'Scientists find new way to store solar e' ke baare mein 2 line likho  | energy=35 hunger=54
+- [039] (amir, 114 sikke) KISMAT: chori ho gayi (-10)  | energy=35 hunger=54
+- [039] (amir, 114 sikke) kaam chal raha: 'Scientists find new way to store solar e' ke baare mein 2 line likho (bacha 1)  | energy=27 hunger=60
+- [040] (amir, 103 sikke) RAJA ne kar liya: -11 sikke  | energy=27 hunger=60
+- [040] (amir, 103 sikke) KAAM POORA: 'Scientists find new way to store solar e' ke baare mein 2 line likho (+0 sikke)  | energy=19 hunger=66
