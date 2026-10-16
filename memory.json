@@ -1,13 +1,13 @@
 {
   "name": "Nexus",
   "home": "jhopdi",
-  "coins": 103,
-  "energy": 19,
+  "coins": 133,
+  "energy": 33,
   "hunger": 66,
-  "tick": 40,
-  "learned": 3,
+  "tick": 80,
+  "learned": 15,
   "hardship": 0,
-  "done_count": 8,
+  "done_count": 13,
   "tasks": [],
   "done": [
     "3 articles padho",
@@ -17,23 +17,40 @@
     "'Local team wins the championship in over' ke baare mein 2 line likho",
     "3 articles padho",
     "'Local team wins the championship in over' ke baare mein 2 line likho",
-    "'Scientists find new way to store solar e' ke baare mein 2 line likho"
+    "'Scientists find new way to store solar e' ke baare mein 2 line likho",
+    "'Scientists find new way to store solar e' ke baare mein 2 line likho",
+    "3 articles padho",
+    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
+    "'Tech market indeed soft, but HP woes one' ke baare mein 2 line likho",
+    "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho"
   ],
   "knowledge": [
     "Local team wins the championship in overtime",
     "Antitrust Lawyer Takes Helm at FTC As Deborah P. Majoras takes over the Federal Trade Commission on Monday, she's expected to build on the broad agenda set by h",
-    "Scientists find new way to store solar energy"
+    "Scientists find new way to store solar energy",
+    "New Clot Preventer Saves Lives and Money By Ed Edelson, HealthDay Reporter    HealthDayNews -- A new anti-clotting drug for people having artery-opening procedu",
+    "Vending Machines Making Room for Healthy Products By IRA DREYFUSS     WASHINGTON (AP) -- The typical vending machine fare consists of chocolate bars and potato ",
+    "Gartner: 'Steer away' from cheap Windows XP That's the research firm's verdict on Microsoft's stripped-down Starter Edition for developing countries.",
+    "Tech market indeed soft, but HP woes one of a kind HP and Cisco spooked investors with recent comments about sales, but analysts say the overall tech market is ",
+    "Athens Wrestles to Avoid Cell Phone Outages By MATT MOORE    ATHENS, Greece (AP) -- Amid the roar of the crowd, the silence of the phones can be deafening. As t",
+    "Microsoft Says Battle in Japan Hurting Image By YURI KAGEYAMA     TOKYO (AP) -- The head of Microsoft Corp. (MSFT)'s Japan unit acknowledged Tuesday that the U.",
+    "Phelps, Thorpe Advance in 200 Freestyle (AP) AP - Michael Phelps took care of qualifying for the Olympic 200-meter freestyle semifinals Sunday, and then found o",
+    "Hungarian GP, Friday Round-Up Fernando tenth and Jarno seventeenth but no cause for concern, while Pat Symonds explains the challenges of Fridays at the race.",
+    "Rwanda Troops Airlifted to Start AU Mission in Darfur (Reuters) Reuters - Rwandan troops were airlifted on Sunday\\to Sudan's Darfur as the first foreign force t",
+    "Florida Residents Face Hurricane Wreckage PUNTA GORDA, Fla. - After getting a first look at the widespread damage left behind by Hurricane Charley, Florida resi",
+    "Oil and Economy Cloud Stocks' Outlook  NEW YORK (Reuters) - Soaring crude prices plus worries  about the economy and the outlook for earnings are expected to  h",
+    "NASA Develops Robust Artificial Intelligence for Planetary Rovers NASA is planning to add a strong dose of artificial intelligence (AI) to planetary rovers to m"
   ],
   "world": [
     {
       "name": "jhopdi",
-      "food": 4,
+      "food": 5,
       "comfort": 1,
       "rent": 0
     },
     {
       "name": "kothri",
-      "food": 8,
+      "food": 10,
       "comfort": 2,
       "rent": 5
     },

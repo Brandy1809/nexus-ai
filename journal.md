@@ -47,3 +47,53 @@
 - [039] (amir, 114 sikke) kaam chal raha: 'Scientists find new way to store solar e' ke baare mein 2 line likho (bacha 1)  | energy=27 hunger=60
 - [040] (amir, 103 sikke) RAJA ne kar liya: -11 sikke  | energy=27 hunger=60
 - [040] (amir, 103 sikke) KAAM POORA: 'Scientists find new way to store solar e' ke baare mein 2 line likho (+0 sikke)  | energy=19 hunger=66
+
+## Run ke baad tick 80
+- [041] (amir, 103 sikke) so gaya, energy +28  | energy=47 hunger=71
+- [042] (amir, 103 sikke) khana khaya  | energy=47 hunger=21
+- [043] (amir, 103 sikke) safar (dataset): [Sci-Tech/misc] New Clot Preventer Saves Lives and Money By Ed Edelson, Heal  | energy=42 hunger=25
+- [044] (amir, 103 sikke) safar (dataset): [Sci-Tech/misc] Vending Machines Making Room for Healthy Products By IRA DRE  | energy=37 hunger=29
+- [045] (amir, 103 sikke) safar (dataset): [Sci-Tech/misc] Gartner: 'Steer away' from cheap Windows XP That's the resea  | energy=32 hunger=33
+- [046] (amir, 103 sikke) safar (dataset): [Sci-Tech/paisa] Tech market indeed soft, but HP woes one of a kind HP and Ci  | energy=27 hunger=37
+- [047] (amir, 103 sikke) KHUD KA NAYA KAAM (1/5): 'Scientists find new way to store solar e' ke baare mein 2 line likho  | energy=27 hunger=37
+- [048] (amir, 103 sikke) kaam chal raha: 'Scientists find new way to store solar e' ke baare mein 2 line likho (bacha 1)  | energy=19 hunger=43
+- [049] (amir, 103 sikke) so gaya, energy +28  | energy=47 hunger=48
+- [050] (madhyam, 93 sikke) RAJA ne kar liya: -10 sikke  | energy=47 hunger=48
+- [050] (madhyam, 93 sikke) KAAM POORA: 'Scientists find new way to store solar e' ke baare mein 2 line likho (+0 sikke)  | energy=39 hunger=54
+- [051] (madhyam, 93 sikke) kaam-bazaar se kaam liya: 3 articles padho (paisa 10)  | energy=39 hunger=54
+- [052] (madhyam, 93 sikke) kaam chal raha: 3 articles padho (bacha 2)  | energy=31 hunger=60
+- [053] (amir, 118 sikke) KISMAT: khazana mila (+25)  | energy=31 hunger=60
+- [053] (amir, 118 sikke) kaam chal raha: 3 articles padho (bacha 1)  | energy=23 hunger=66
+- [054] (amir, 128 sikke) KAAM POORA: 3 articles padho (+10 sikke)  | energy=15 hunger=72
+- [055] (amir, 118 sikke) KISMAT: chori ho gayi (-10)  | energy=15 hunger=72
+- [055] (amir, 118 sikke) so gaya, energy +28  | energy=43 hunger=77
+- [056] (amir, 118 sikke) khana khaya  | energy=43 hunger=27
+- [057] (amir, 118 sikke) safar (dataset): [Sci-Tech/misc] Athens Wrestles to Avoid Cell Phone Outages By MATT MOORE     | energy=38 hunger=31
+- [058] (amir, 118 sikke) safar (dataset): [Sci-Tech/misc] Microsoft Says Battle in Japan Hurting Image By YURI KAGEYAM  | energy=33 hunger=35
+- [059] (amir, 118 sikke) joke: Maine 'Microsoft Says Battle in Japan Hurt' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=31 hunger=37
+- [060] (amir, 107 sikke) RAJA ne kar liya: -11 sikke  | energy=31 hunger=37
+- [060] (amir, 107 sikke) KHUD KA NAYA KAAM (2/5): 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho  | energy=31 hunger=37
+- [061] (amir, 107 sikke) kaam chal raha: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (bacha 1)  | energy=23 hunger=43
+- [062] (amir, 107 sikke) KAAM POORA: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (+0 sikke)  | energy=15 hunger=49
+- [063] (amir, 107 sikke) so gaya, energy +28  | energy=43 hunger=54
+- [064] (amir, 107 sikke) safar (dataset): [Sports/misc] Phelps, Thorpe Advance in 200 Freestyle (AP) AP - Michael Ph  | energy=38 hunger=58
+- [065] (amir, 107 sikke) KHUD KA NAYA KAAM (3/5): 'Tech market indeed soft, but HP woes one' ke baare mein 2 line likho  | energy=38 hunger=58
+- [066] (amir, 107 sikke) kaam chal raha: 'Tech market indeed soft, but HP woes one' ke baare mein 2 line likho (bacha 1)  | energy=30 hunger=64
+- [067] (amir, 107 sikke) KAAM POORA: 'Tech market indeed soft, but HP woes one' ke baare mein 2 line likho (+0 sikke)  | energy=22 hunger=70
+- [068] (amir, 132 sikke) KISMAT: khazana mila (+25)  | energy=22 hunger=70
+- [068] (amir, 132 sikke) khana khaya  | energy=22 hunger=20
+- [069] (amir, 132 sikke) safar (dataset): [Sports/misc] Hungarian GP, Friday Round-Up Fernando tenth and Jarno seven  | energy=17 hunger=24
+- [070] (amir, 119 sikke) RAJA ne kar liya: -13 sikke  | energy=17 hunger=24
+- [070] (amir, 119 sikke) so gaya, energy +28  | energy=45 hunger=29
+- [071] (amir, 119 sikke) safar (dataset): [World/misc] Rwanda Troops Airlifted to Start AU Mission in Darfur (Reute  | energy=40 hunger=33
+- [072] (amir, 119 sikke) joke: Maine 'Rwanda Troops Airlifted to Start AU' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=38 hunger=35
+- [073] (amir, 119 sikke) KHUD KA NAYA KAAM (4/5): 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho  | energy=38 hunger=35
+- [074] (amir, 119 sikke) kaam chal raha: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (bacha 1)  | energy=30 hunger=41
+- [075] (amir, 119 sikke) KAAM POORA: 'Vending Machines Making Room for Healthy' ke baare mein 2 line likho (+0 sikke)  | energy=22 hunger=47
+- [076] (amir, 119 sikke) safar (dataset): [World/misc] Florida Residents Face Hurricane Wreckage PUNTA GORDA, Fla.   | energy=17 hunger=51
+- [077] (amir, 119 sikke) so gaya, energy +28  | energy=45 hunger=56
+- [078] (amir, 119 sikke) safar (dataset): [Business/energy] Oil and Economy Cloud Stocks' Outlook  NEW YORK (Reuters) -   | energy=40 hunger=60
+- [079] (amir, 119 sikke) safar (dataset): [Sci-Tech/ai] NASA Develops Robust Artificial Intelligence for Planetary R  | energy=35 hunger=64
+- [080] (amir, 108 sikke) RAJA ne kar liya: -11 sikke  | energy=35 hunger=64
+- [080] (amir, 133 sikke) KISMAT: khazana mila (+25)  | energy=35 hunger=64
+- [080] (amir, 133 sikke) joke: Maine 'NASA Develops Robust Artificial Int' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=33 hunger=66
