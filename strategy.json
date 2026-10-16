@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "sleep_below": 20,
+  "eat_above": 70,
+  "madhyam_job_chance": 0.7,
+  "invent_chance": 0.4,
+  "joke_chance": 0.15,
+  "pay_bias": 0.5
+}
