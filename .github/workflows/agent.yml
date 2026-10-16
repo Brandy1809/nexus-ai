@@ -44,7 +44,7 @@ jobs:
 
       - name: Yaaddasht commit karo
         run: |
-          git config user.name "nexus"
-          git config user.email "nexus@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add memory.json journal.md
           git diff --cached --quiet || (git commit -m "agent ka ek din" && git pull --rebase && git push)
