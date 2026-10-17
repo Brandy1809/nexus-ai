@@ -144,3 +144,49 @@
 - [119] (amir, 153 sikke) KAAM POORA: door ki website ka safar (+30 sikke)  | energy=36 hunger=72
 - [120] (amir, 138 sikke) RAJA ne kar liya: -15 sikke  | energy=36 hunger=72
 - [120] (amir, 138 sikke) khana khaya  | energy=36 hunger=22
+
+## Run ke baad tick 160
+- [121] (amir, 138 sikke) safar (dataset): [Sci-Tech/misc] Lebanese shun mobile phones for a day in protest at high cos  | energy=31 hunger=26
+- [122] (amir, 138 sikke) KHUD KA NAYA KAAM (1/5): 'Leonard Forges Two Clear with Nine to Pl' ke baare mein 2 line likho  | energy=31 hunger=26
+- [123] (amir, 138 sikke) kaam chal raha: 'Leonard Forges Two Clear with Nine to Pl' ke baare mein 2 line likho (bacha 1)  | energy=23 hunger=32
+- [124] (amir, 138 sikke) so gaya, energy +28  | energy=51 hunger=37
+- [125] (amir, 138 sikke) KAAM POORA: 'Leonard Forges Two Clear with Nine to Pl' ke baare mein 2 line likho (+0 sikke)  | energy=43 hunger=43
+- [126] (amir, 138 sikke) safar (dataset): [World/energy] Stocks Higher Despite Soaring Oil Prices NEW YORK - Wall Str  | energy=38 hunger=47
+- [127] (amir, 138 sikke) safar (dataset): [Sci-Tech/misc] On the Beastie Boys 'virus' CD &lt;strong&gt;Review&lt;/stro  | energy=33 hunger=51
+- [128] (amir, 138 sikke) KHUD KA NAYA KAAM (2/5): 'Athens Wrestles to Avoid Cell Phone Outa' ke baare mein 2 line likho  | energy=33 hunger=51
+- [129] (amir, 138 sikke) kaam chal raha: 'Athens Wrestles to Avoid Cell Phone Outa' ke baare mein 2 line likho (bacha 1)  | energy=25 hunger=57
+- [130] (amir, 125 sikke) RAJA ne kar liya: -13 sikke  | energy=25 hunger=57
+- [130] (amir, 125 sikke) so gaya, energy +28  | energy=53 hunger=62
+- [131] (amir, 125 sikke) KAAM POORA: 'Athens Wrestles to Avoid Cell Phone Outa' ke baare mein 2 line likho (+0 sikke)  | energy=45 hunger=68
+- [132] (amir, 125 sikke) joke: Maine 'On the Beastie Boys 'virus' CD &lt;' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=43 hunger=70
+- [133] (amir, 125 sikke) KHUD KA NAYA KAAM (3/5): 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho  | energy=43 hunger=70
+- [134] (amir, 125 sikke) kaam chal raha: 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho (bacha 1)  | energy=35 hunger=76
+- [135] (amir, 125 sikke) khana khaya  | energy=35 hunger=26
+- [136] (amir, 125 sikke) KAAM POORA: 'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho (+0 sikke)  | energy=27 hunger=32
+- [137] (amir, 125 sikke) safar (dataset): [Sports/khel] Bryant Defense Wins Ruling In another setback to the prosecu  | energy=22 hunger=36
+- [138] (amir, 125 sikke) so gaya, energy +28  | energy=50 hunger=41
+- [139] (amir, 125 sikke) safar (dataset): [Sci-Tech/misc] Ex-Polaroid exec takes top finance job at 3Com Donald Halste  | energy=45 hunger=45
+- [140] (amir, 113 sikke) RAJA ne kar liya: -12 sikke  | energy=45 hunger=45
+- [140] (amir, 113 sikke) KHUD KA NAYA KAAM (4/5): 'Lebanese shun mobile phones for a day in' ke baare mein 2 line likho  | energy=45 hunger=45
+- [141] (amir, 113 sikke) kaam chal raha: 'Lebanese shun mobile phones for a day in' ke baare mein 2 line likho (bacha 1)  | energy=37 hunger=51
+- [142] (amir, 113 sikke) KAAM POORA: 'Lebanese shun mobile phones for a day in' ke baare mein 2 line likho (+0 sikke)  | energy=29 hunger=57
+- [143] (amir, 113 sikke) KHUD KA NAYA KAAM (5/5): 'Gartner: 'Steer away' from cheap Windows' ke baare mein 2 line likho  | energy=29 hunger=57
+- [144] (amir, 113 sikke) kaam chal raha: 'Gartner: 'Steer away' from cheap Windows' ke baare mein 2 line likho (bacha 1)  | energy=21 hunger=63
+- [145] (amir, 113 sikke) so gaya, energy +28  | energy=49 hunger=68
+- [146] (amir, 113 sikke) KAAM POORA: 'Gartner: 'Steer away' from cheap Windows' ke baare mein 2 line likho (+0 sikke)  | energy=41 hunger=74
+- [147] (amir, 113 sikke) khana khaya  | energy=41 hunger=24
+- [148] (amir, 113 sikke) safar (dataset): [Sci-Tech/misc] Md. Field Dig May Reach Back 16,000 Years (AP) AP - Robert D  | energy=36 hunger=28
+- [149] (amir, 113 sikke) safar (dataset): [Sports/misc] Kobe Bryant Rape Trial Looks Set to Go Ahead  EAGLE, Colo. (  | energy=31 hunger=32
+- [150] (amir, 102 sikke) RAJA ne kar liya: -11 sikke  | energy=31 hunger=32
+- [150] (amir, 102 sikke) safar (dataset): [Sports/misc] Despondent Brown: 'I Feel Like a Failure' (AP) AP - Larry Br  | energy=26 hunger=36
+- [151] (amir, 102 sikke) safar (dataset): [Sci-Tech/misc] Scientists Work on Cure for Mysterious Nerve Disease By LAUR  | energy=21 hunger=40
+- [152] (amir, 102 sikke) so gaya, energy +28  | energy=49 hunger=45
+- [153] (amir, 102 sikke) safar (dataset): [World/misc] Americans in Afghan Trial Ask FBI for Documents  KABUL, Afgh  | energy=44 hunger=49
+- [154] (amir, 102 sikke) safar (dataset): [World/ai] Income Gap Up Over Two Decades, Data Show WASHINGTON - Over   | energy=39 hunger=53
+- [155] (amir, 102 sikke) joke: Maine 'Income Gap Up Over Two Decades, Dat' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=37 hunger=55
+- [156] (amir, 102 sikke) safar (dataset): [Sci-Tech/misc] Cassini Finds Two New Saturnian Moons Jet Propulsion Lab --   | energy=32 hunger=59
+- [157] (amir, 102 sikke) safar (dataset): [Sci-Tech/ai] CA buys PestPatrol antispyware developer Computer Associates  | energy=27 hunger=63
+- [158] (amir, 102 sikke) joke: Maine 'CA buys PestPatrol antispyware deve' padha, ab samajh aaya: paisa kam hai par khabrein bahut hain!  | energy=25 hunger=65
+- [159] (amir, 102 sikke) so gaya, energy +28  | energy=53 hunger=70
+- [160] (madhyam, 92 sikke) RAJA ne kar liya: -10 sikke  | energy=53 hunger=70
+- [160] (madhyam, 92 sikke) kaam-bazaar se kaam liya: door ki website ka safar (paisa 30)  | energy=53 hunger=70

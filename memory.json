@@ -1,14 +1,21 @@
 {
   "name": "Nexus",
   "home": "jhopdi",
-  "coins": 138,
-  "energy": 36,
-  "hunger": 22,
-  "tick": 120,
-  "learned": 24,
+  "coins": 92,
+  "energy": 53,
+  "hunger": 70,
+  "tick": 160,
+  "learned": 37,
   "hardship": 0,
-  "done_count": 19,
-  "tasks": [],
+  "done_count": 24,
+  "tasks": [
+    {
+      "name": "door ki website ka safar",
+      "pay": 30,
+      "steps": 5,
+      "left": 5
+    }
+  ],
   "done": [
     "3 articles padho",
     "3 articles padho",
@@ -28,16 +35,14 @@
     "'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho",
     "'Vending Machines Making Room for Healthy' ke baare mein 2 line likho",
     "'Local team wins the championship in over' ke baare mein 2 line likho",
-    "door ki website ka safar"
+    "door ki website ka safar",
+    "'Leonard Forges Two Clear with Nine to Pl' ke baare mein 2 line likho",
+    "'Athens Wrestles to Avoid Cell Phone Outa' ke baare mein 2 line likho",
+    "'Dream Team Stunned by Puerto Rico 92-73 ' ke baare mein 2 line likho",
+    "'Lebanese shun mobile phones for a day in' ke baare mein 2 line likho",
+    "'Gartner: 'Steer away' from cheap Windows' ke baare mein 2 line likho"
   ],
   "knowledge": [
-    "Local team wins the championship in overtime",
-    "Antitrust Lawyer Takes Helm at FTC As Deborah P. Majoras takes over the Federal Trade Commission on Monday, she's expected to build on the broad agenda set by h",
-    "Scientists find new way to store solar energy",
-    "New Clot Preventer Saves Lives and Money By Ed Edelson, HealthDay Reporter    HealthDayNews -- A new anti-clotting drug for people having artery-opening procedu",
-    "Vending Machines Making Room for Healthy Products By IRA DREYFUSS     WASHINGTON (AP) -- The typical vending machine fare consists of chocolate bars and potato ",
-    "Gartner: 'Steer away' from cheap Windows XP That's the research firm's verdict on Microsoft's stripped-down Starter Edition for developing countries.",
-    "Tech market indeed soft, but HP woes one of a kind HP and Cisco spooked investors with recent comments about sales, but analysts say the overall tech market is ",
     "Athens Wrestles to Avoid Cell Phone Outages By MATT MOORE    ATHENS, Greece (AP) -- Amid the roar of the crowd, the silence of the phones can be deafening. As t",
     "Microsoft Says Battle in Japan Hurting Image By YURI KAGEYAMA     TOKYO (AP) -- The head of Microsoft Corp. (MSFT)'s Japan unit acknowledged Tuesday that the U.",
     "Phelps, Thorpe Advance in 200 Freestyle (AP) AP - Michael Phelps took care of qualifying for the Olympic 200-meter freestyle semifinals Sunday, and then found o",
@@ -54,12 +59,25 @@
     "Time Is Now for Linux Vendors to Protect Users (Ziff Davis) Ziff Davis - Opinion: It's time for other Linux vendors to follow Red Hat's lead and offer patent in",
     "They flocked from Games ATHENS -- During yesterday's celebration of the assumption of the Virgin Mary, the Greek orthodox clergy had a stern reminder for the or",
     "Clout shown in rout ATHENS -- When the Olympic softball schedule was released, Lisa Fernandez grabbed a marker and began counting down the days.  quot;This game",
-    "Rescue Teams Aid Hurricane Charley Victims PUNTA GORDA, Fla. - Urban rescue teams, insurance adjusters and National Guard troops were scattered across Florida t"
+    "Rescue Teams Aid Hurricane Charley Victims PUNTA GORDA, Fla. - Urban rescue teams, insurance adjusters and National Guard troops were scattered across Florida t",
+    "Lebanese shun mobile phones for a day in protest at high costs (AFP) AFP - Lebanese mobile phone users were urged to leave their portable telephones at home or ",
+    "Stocks Higher Despite Soaring Oil Prices NEW YORK - Wall Street shifted higher Monday as bargain hunters shrugged off skyrocketing oil prices and bought shares ",
+    "On the Beastie Boys 'virus' CD &lt;strong&gt;Review&lt;/strong&gt; Does not attempt world domination, but",
+    "Bryant Defense Wins Ruling In another setback to the prosecution in the Kobe Bryant sexual assault case, the court maintains ruling that allows information abou",
+    "Ex-Polaroid exec takes top finance job at 3Com Donald Halsted, one target of a class-action suit alleging financial improprieties at bankrupt Polaroid, official",
+    "Md. Field Dig May Reach Back 16,000 Years (AP) AP - Robert D. Wall is too careful a scientist to say he's on the verge of a sensational discovery.",
+    "Kobe Bryant Rape Trial Looks Set to Go Ahead  EAGLE, Colo. (Reuters) - The trial in the Kobe Bryant rape  case looked set to go ahead later this month after the",
+    "Despondent Brown: 'I Feel Like a Failure' (AP) AP - Larry Brown was despondent, the head of the U.S. selection committee was defensive, and Allen Iverson was ha",
+    "Scientists Work on Cure for Mysterious Nerve Disease By LAURAN NEERGAARD    WASHINGTON (AP) -- Dr. Douglas Kerr painstakingly collected spinal fluid from hundre",
+    "Americans in Afghan Trial Ask FBI for Documents  KABUL, Afghanistan (Reuters) - Three Americans standing  trial in Afghanistan Monday for imprisoning and tortur",
+    "Income Gap Up Over Two Decades, Data Show WASHINGTON - Over two decades, the income gap has steadily increased between the richest Americans, who own homes and ",
+    "Cassini Finds Two New Saturnian Moons Jet Propulsion Lab -- With eyes sharper than any that have peered at Saturn before, the Cassini spacecraft has uncovered t",
+    "CA buys PestPatrol antispyware developer Computer Associates has acquired PestPatrol, a company that markets antispyware software, for an undisclosed sum and pl"
   ],
   "world": [
     {
       "name": "jhopdi",
-      "food": 5,
+      "food": 7,
       "comfort": 1,
       "rent": 0
     },
